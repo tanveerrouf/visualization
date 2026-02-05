@@ -12,6 +12,37 @@
       ```
       Your answer...
 
+      Good Example: Americans Are More Concerned Than Excited About AI 
+      https://public.tableau.com/views/AmericansAreMoreConcernedThanExcitedAboutAI/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+The "Americans Are More Concerned Than Excited About AI" visualization by Zhitao Ma exemplifies strong data visualization design, and as someone studying artificial intelligence governance and public perception, I find this particularly compelling. 
+
+First, this visualization demonstrates strong substantive qualities by accurately representing survey data without distortion. The visualization presents factual information honestly, fulfilling the core requirement that data visualization must maintain accuracy while communicating effectively (Data Sciences Institute 2026a). 
+
+Second, the visualization excels in perceptual qualities through clear, intuitive design. The layout allows viewers to understand the primary message without overwhelming cognitive load. Design principles organize visual information in ways people naturally process, making the data immediately comprehensible to diverse audiences (Data Sciences Institute 2026a).
+
+Third, provenance rhetoric strengthens credibility significantly. By citing the data source, the visualization signals "transparency and trustworthiness" to the audience. This inclusion of data attribution increases persuasiveness and encourages audience confidence in the findings (Data Sciences Institute 2026a). The visualization adheres to conventions that reinforce perceived objectivity, including two-dimensional design with clean layouts and geometric shapes that audiences associate with reliable data presentation (Data Sciences Institute 2026a).
+
+Bad Example: Superstore Dashboard - Viz 
+https://public.tableau.com/views/SuperstoreDashboard-VizExtensionsEdition/viz?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+The "Superstore Dashboard - Viz Extensions Edition" by Pradeep Kumar G fails fundamental data visualization principles. As a scholar examining how data visualization shapes public understanding of technology, I find this particularly problematic.
+
+First, this visualization prioritizes aesthetic complexity over substantive clarity. The dashboard uses advanced features to create complex visualizations, prioritizing visual novelty over communicating insights effectively. This design choice increases cognitive load, forcing audiences to navigate complex visualizations without clear narrative purpose (Data Sciences Institute 2026a). The technical sophistication serves the creator rather than the audience.
+
+Second, the visualization demonstrates poor perceptual qualities. Design decisions should reflect "visualization purpose, audience, and medium," yet this dashboard appears driven by technical capability rather than communication goals (Data Sciences Institute 2026a). The complexity contradicts foundational principles about how humans process visual information.
+
+Third, and critically, the visualization fails on accessibility grounds. The dashboard does not consider how diverse audiences will access the information. As the course materials emphasize, professionals and academics "have a responsibility to prioritize accessibility" in data visualization (Data Sciences Institute 2026b). If audiences cannot easily understand or share the visualization, its communication potential is severely compromised.
+
+Fourth, the visualization appears exploratory without clear guidance. While dynamic visualizations have value, unclear interaction patterns and overwhelming visual elements confuse rather than clarify. The design prioritizes what visualization can do technologically rather than what the data needs to communicate (Data Sciences Institute 2026c).
+
+References
+Data Sciences Institute. 2026a. Choosing the Right Visualization. Lecture slides. University of Toronto.
+Data Sciences Institute. 2026b. Accessible Data Visualization. Lecture slides. University of Toronto.
+Data Sciences Institute. 2026c. Beyond Matplotlib. Lecture slides. University of Toronto.
+
+
+
 
 
 
@@ -22,6 +53,25 @@
     - How could this data visualization have been improved?  
       ```
       Your answer...
+
+    Good Example: Americans Are More Concerned Than Excited About AI
+https://public.tableau.com/views/AmericansAreMoreConcernedThanExcitedAboutAI/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Suggested Improvements for Good Example: While strong overall, two enhancements could strengthen the "Americans Are More Concerned Than Excited About AI" visualization by Zhitao Ma. First, including alternative text descriptions would improve accessibility for viewers with visual impairments, ensuring that individuals relying on screen readers can access the insights (Data Sciences Institute 2026b). 
+
+The slide deck emphasizes that "failing to consider best practices for accessible design means that our data visualization will not have the desired positive effect on all of our audience, and may even have a harmful effect by excluding them from important data" (Data Sciences Institute 2026b). Second, the visualization could benefit from explicit demographic breakdowns presented visually to deepen audience understanding.
+
+Bad Example: Superstore Dashboard - Viz Extensions Edition
+https://public.tableau.com/views/SuperstoreDashboard-VizExtensionsEdition/viz?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Suggested Improvements for Bad example: First, simplify the visualization by reducing chart types and focusing on key insights. One strong visualization beats multiple complex ones when communication is the goal. Second, prioritize accessibility by ensuring clear labeling and descriptions (Data Sciences Institute 2026b). Third, conduct user testing to verify that target audiences understand the visualization without extensive navigation.
+
+References
+Data Sciences Institute. 2026a. Choosing the Right Visualization. Lecture slides. University of Toronto.
+Data Sciences Institute. 2026b. Accessible Data Visualization. Lecture slides. University of Toronto.
+Data Sciences Institute. 2026c. Beyond Matplotlib. Lecture slides. University of Toronto.
+
+
 
 
 
